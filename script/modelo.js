@@ -1,3 +1,4 @@
+
 function positions(firstPlace, secondPlace, lastPlace) {
     let podio = [firstPlace, secondPlace, lastPlace]
    if(podio[1] === 'Daniel'){
